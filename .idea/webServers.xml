@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6b50dce6-a0dc-4d9a-9b30-96385b8b994d" name="blog" url="http://p8488.cpanel.relevate.ru">
+        <fileTransfer host="p8488.cpanel.relevate.ru" port="21" rootFolder="/public_html/multisite/blog.sar-log.ru">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
